@@ -1,0 +1,6 @@
+id=fakeselinux
+name=Fale SELinux Enforce State
+version=0.1.0
+versionCode=0
+author=CodeHz
+description=Fake SELinux Enforce State 🤔
